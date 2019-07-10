@@ -1,0 +1,26 @@
+{
+  "name": "mongo_hw",
+  "version": "1.0.0",
+  "description": "mongo db homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mongodb_hw"
+  },
+  "keywords": [
+    "mongo"
+  ],
+  "author": "Halon Hamilton",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cherio": "^1.0.0-rc.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.6.4"
+  }
+}
